@@ -1,0 +1,27 @@
+# Java
+*.class
+*.jar
+*.war
+*.iml
+
+# Maven
+/target/
+
+# Logs
+*.log
+
+# IDEs
+.idea/
+*.iws
+*.ipr
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Prevent config secrets from being pushed
+*.env
+application.properties
+
