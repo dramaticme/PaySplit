@@ -6,7 +6,7 @@ This project focuses on showcasing professional backend development practices, i
 
 ---
 
-## Features 🚁
+## Features 🍹
 
 1. **User Registration & Login**: Secure signup and login system with password hashing using BCrypt.
 
@@ -24,7 +24,7 @@ This project focuses on showcasing professional backend development practices, i
 
 ---
 
-## Technology Stack 🎃
+## Technology Stack 🎱
 
 ### Backend (☆▽☆)
 
