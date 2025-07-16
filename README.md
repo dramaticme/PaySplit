@@ -1,4 +1,4 @@
-# 🐦‍🔥PaySplit – A Secure Bill Splitting App 
+# 🦧PaySplit – A Secure Bill Splitting App 
 
 PaySplit is a robust backend-driven application designed to simplify and secure the process of managing shared expenses. Whether you're splitting rent with roommates, planning a trip with friends, or organizing group purchases, PaySplit ensures fairness, transparency, and data security for every transaction.
 
@@ -6,7 +6,7 @@ This project focuses on showcasing professional backend development practices, i
 
 ---
 
-## Features 🦧
+## Features 🚁
 
 1. **User Registration & Login**: Secure signup and login system with password hashing using BCrypt.
 
